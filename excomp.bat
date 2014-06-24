@@ -3,6 +3,7 @@ REM Example usage: excomp.bat Book1.xlsx Book2.xlsx
 REM Make sure you add to system path folder with SPREADSHEETCOMPARE.EXE
 REM C:\Program Files (x86)\Microsoft Office\Office15\DCF\
 REM Author: Kamil Niklasinski (kamil (at) niklasinski.com)
+REM This script is provided under GNU license - see license file for details.
 
 @ECHO OFF
 @ECHO Comparing two files:
