@@ -10,7 +10,7 @@ REM This script is provided under GNU license - see license file for details.
 @ECHO 1: %1
 @ECHO 2: %2
 
-dir %1 /B > temp.txt
-dir %2 /B >> temp.txt
+dir %1 /B /S > temp.txt
+dir %2 /B /S >> temp.txt
 
 SPREADSHEETCOMPARE temp.txt
