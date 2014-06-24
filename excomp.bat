@@ -2,7 +2,7 @@ REM Compare two excel files specified as parameters to this script
 REM Example usage: excomp.bat Book1.xlsx Book2.xlsx
 REM Make sure you add to system path folder with SPREADSHEETCOMPARE.EXE
 REM C:\Program Files (x86)\Microsoft Office\Office15\DCF\
-REM Author: Kamil Niklasinski (kamil (at) niklasinski.com)
+REM Author: Kamil Niklasinski
 REM This script is provided under GNU license - see license file for details.
 
 @ECHO OFF
