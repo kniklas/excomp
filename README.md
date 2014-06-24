@@ -2,8 +2,12 @@
 
 Excel compare script - batch file that allows execution of Excel 2013 SPREADSHEETCOMPARE tool from command line with two files as argument.
 
+### Installation
+
+Download ```excomp.bat``` and place it either in folder from which you execute the script or configure Environment Variables PATH so it points to folder where you placed this file (see further part of this README for instructions how to set Environment Variables).
 
 ### Example usage
+
 Simply execute from command line following:
 
 ```
