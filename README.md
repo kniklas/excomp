@@ -1,6 +1,6 @@
 # excomp
 
-Excel compare script - batch file that allows execution of Excel 2013 SPREADSHEETCOMPARE tool from command line with two files as argument.
+Excel compare script - batch file that allows execution of Excel 2013 SPREADSHEETCOMPARE tool from command line with two files as arguments. This tool is answer to problem reported in Microsoft TechCenter: http://social.technet.microsoft.com/Forums/office/en-US/65a0b5f1-e58f-4916-b090-551bbf9c719d/problem-with-spreadsheetcompare?forum=officeitpro
 
 ### Installation
 
